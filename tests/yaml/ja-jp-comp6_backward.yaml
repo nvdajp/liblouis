@@ -1,0 +1,4 @@
+table: [tables/unicode.dis, tables/ja-jp-comp6.utb]
+flags: {testmode: backward}
+tests:
+  - [⠁, あ]

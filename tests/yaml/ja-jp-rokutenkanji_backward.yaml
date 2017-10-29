@@ -1,0 +1,4 @@
+table: [tables/unicode.dis, tables/ja-jp-rokutenkanji.tbl]
+flags: {testmode: backward}
+tests:
+  - [⠁, あ]

@@ -1,0 +1,3 @@
+table: [tables/unicode.dis, tables/ja-jp-rokutenkanji.tbl]
+tests:
+  - [あ, ⠁]
